@@ -1,0 +1,3 @@
+brew 'android-platform-tools'
+brew 'ino'
+brew 'picocom'
