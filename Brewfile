@@ -88,7 +88,7 @@ brew 'yara'
 
 # Hashicorp
 brew 'packer'
-brew 'terragrunt'
+# brew 'terragrunt'
 
 # Search tools
 brew 'findutils'
